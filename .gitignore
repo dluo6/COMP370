@@ -5,7 +5,6 @@
 #results
 *.tsv
 *.csv
-*.
 
 # Jupyter checkpoints
 *.ipynb_checkpoints
