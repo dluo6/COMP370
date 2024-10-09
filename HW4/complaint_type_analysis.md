@@ -1,0 +1,3 @@
+This data science project aims to communicate the discrepancy between the quality of life in different boroughs, as shown by the number of complaints between boroughs. The project may also show how concerns vary based on the month.
+
+Overall, the most common complaint in the first two months was heat/hot water, which may be due to the cold weather. The number of complaints decreased a lot, from almost 44000 to only about 4000 in the middle two months. In addition, Bronx, Brooklyn, and Manhattan were the boroughs with the most complaints. 

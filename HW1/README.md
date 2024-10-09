@@ -1,0 +1,1 @@
+Some tweets are being counted more than once because the data analysis does not account for retweets, where the same tweet is being reposted.
