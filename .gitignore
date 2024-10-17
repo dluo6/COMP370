@@ -8,3 +8,7 @@
 
 # Jupyter checkpoints
 *.ipynb_checkpoints
+
+# API keys
+API_key.py
+secrets.json
