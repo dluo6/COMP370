@@ -12,3 +12,5 @@
 # API keys
 API_key.py
 secrets.json
+
+*.zip
